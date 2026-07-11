@@ -1,4 +1,4 @@
-# The Syn Project - Public version
+# The Epimetheus Project - Public version
 
 ## Overview
 
